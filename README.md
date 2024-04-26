@@ -1,1 +1,1 @@
-This is the repo of Group 3
+This is the repo of Group 3.
